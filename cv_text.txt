@@ -1,0 +1,76 @@
+Koduri Abhiram 
+LinkedIn: koduri-abhiram/09 
+Email: abhiramkoduri4004@gmail 
+Github:    Abhiram4004 
+Mobile:  +91-6301236157 
+SKILLS 
+• Languages: 
+C++, Java, Python, SQL 
+• Frameworks: 
+TensorFlow, PyTorch, Scikit-Learn, Keras, Pandas, Numpy, Matplotlib, Seaborn,  
+• Tools/Platforms: 
+Jupyter Notebook, Google Colab, MySQL, MongoDB, Docker 
+• Soft Skills: 
+Problem-Solving, Project Management, Adaptability 
+INTERNSHIP 
+• Edu Tantar Private Limited | Certificate             
+                                                      July 2025 – September 2025 
+AI Intern          
+ 
+Developed an AI-driven document verification system to classify uploaded documents as Valid or Fake, 
+integrating OCR-based text extraction with real-time machine learning predictions to support digital onboarding 
+workflows 
+ 
+Designed and deployed a user-friendly end-to-end solution, handling document upload, automated processing, 
+prediction output, and seamless model integration for business-ready document authentication 
+ 
+Tech Stack: Python, Machine Learning, OCR (Tesseract), Streamlit, Flask, Scikit-learn, Pandas, NumPy. 
+PROJECTS 
+• AI-driven document verification system | GitHub                                                             February 2025 - April 2025        
+◦  Developed an AI-driven document verification system to classify uploaded documents as Valid or Fake using 
+machine learning models with automated OCR-based text extraction 
+◦  Deployed a user-friendly end-to-end solution featuring real-time prediction, efficient data handling, and 
+seamless integration for digital onboarding workflows 
+◦ Tech stacks used: Python · ML · OCR · Streamlit. 
+• N-gram Autocomplete System | GitHub                                                                                 October 2025 – Jan 2025  
+◦  Developed a real-time autocomplete system using hierarchical N-gram language models (trigram, bigram, 
+unigram) with punctuation-aware preprocessing for accurate next-word prediction and partial-word completion 
+◦  Implemented adaptive online learning to personalize predictions by dynamically reinforcing user-generated N-
+grams, enabling lightweight, interpretable, and low-latency text assistance for web-based applications 
+◦ Tech stacks used: Python · NLP · NLTK · Flask. 
+TRAINING 
+• Advanced Data Structures – Center Of Professional Enhancement(LPU) | GitHub           June 2025 – July 2025                
+◦ Completed Advanced Data Structures training, focusing on priority queues, linked lists, and efficient algorithm 
+design  
+◦ 
+ Designed & implemented a Print Job Scheduling System using C++ with priority-based job handling and 
+optimized file management 
+◦ 
+ Built a modern Streamlit interface enabling job submission, status tracking, and smooth interaction by 
+integrating Python with backend logic.reliability. 
+                      
+CERTIFICATES 
+◦ Advanced Data Structure by LPU Skills | Certificate  
+ 
+ 
+ 
+ 
+                    July 2025 
+◦ freeCodecamp – Responsive Web Desgin Certificate | Certificate                                                               Sept 2023 
+ACHIEVEMENT 
+• Code A Hunt | Hackathon:                                                                                                                         March 2024 
+◦  Qualified Level 1 in the “Code-A-Hunt” Hackathon Based on technical Evaluation Performance | Certificate  
+EXTRA CURRICULAR ACTIVITIES 
+◦ CyberDrill: Cyber Security Workshop | Certificate                                                                                          Feb 2024 
+◦ Community Development Project on Farmers Crop Production Management | Certificate                           July 2024             
+  EDUCATION 
+Lovely Professional University                                                                                                     Phagwara, Punjab, India 
+Bachelor of Technology - Computer Science and Engineering; CGPA: 7.06                August 2023 - Present 
+SR EDU Center 
+  Subedari, Hanamkonda 
+Intermediate; Percentage: 92.7                                                                                     April 2021 - March 2023 
+Greenwood High School                                                                                                           Hunte Road, Warangal 
+Matriculation; Percentage: 78                                                                                       March 2020 -March 2021 
+• 
+• 
+• 
