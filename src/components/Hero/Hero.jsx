@@ -62,7 +62,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="relative min-h-screen flex items-center justify-center overflow-hidden"
+      className="relative min-h-screen flex items-center justify-center overflow-hidden pt-28 pb-12 lg:pt-32"
     >
       <Particles id="tsparticles" init={particlesInit} options={particleOptions} />
 
@@ -74,7 +74,7 @@ export default function Hero() {
       ))}
 
       {/* Content */}
-      <div className="relative z-10 px-6 max-w-7xl mx-auto w-full flex flex-col-reverse lg:flex-row items-center justify-between gap-12 lg:gap-8 pt-20 lg:pt-0">
+      <div className="relative z-10 px-6 max-w-7xl mx-auto w-full flex flex-col-reverse lg:flex-row items-center justify-between gap-12 lg:gap-8">
         
         {/* Left Column: Text & CTA */}
         <div className="flex-1 flex flex-col items-center lg:items-start text-center lg:text-left">
